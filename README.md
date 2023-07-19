@@ -11,7 +11,7 @@ Instalación y ejecución con Docker
 
 Clona este repositorio en tu máquina local:  
 
-    git clone https://github.com/tu-usuario/zebrand.git  
+    git clone https://github.com/mtellezgalindo86/zebrand.git 
 
 Accede al directorio del proyecto:  
 cd zebrand  
