@@ -41,3 +41,4 @@ class ProductRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
             raise AuthenticationFailed('No token provided')
 
         return super().get_permissions()
+    #
